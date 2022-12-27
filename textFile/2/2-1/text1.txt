@@ -1,0 +1,4 @@
+CPU에서 주소 정보를 운반하는 동물은?
+말
+왜냐하면 CPU의 주소 버스가 MAR (Memory Address Register)에 연결되어 있으니까요!
+꺄륵!
